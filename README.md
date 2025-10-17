@@ -9,4 +9,4 @@
 ### Block (parent company to Square & CashApp) (dalbertazzi-squareup)
 ![Square Streak](https://github-readme-streak-stats.herokuapp.com/?user=dalbertazzi-squareup&theme=default)
 
-*Work contributions are in private repositories*
+*Block contributions are in private repositories*
